@@ -8,7 +8,7 @@ This application uses the [bunzz-sdk](https://www.npmjs.com/package/bunzz-sdk) t
 
 For detailed instructions on how to use bunzz-sdk, see [here](https://www.npmjs.com/package/bunzz-sdk).
 
-## Getting Started
+## Getting Started.
 
 ### 1. Clone
 
